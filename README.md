@@ -8,6 +8,6 @@
 [Урок 7](адрес "Описание") - сайт на html + css  
 [Урок 8](адрес "Описание") - bootstrap  
 [Урок 9](адрес "Описание") - сайт на html + css + bootstrap  
-[Урок 10](https://gist.githubusercontent.com/Skaramush01/5ff581b022daa43df69f1f810a471026/raw/516373071e3950efe2d1ba83d0e3232666e6fcb1/main.less "Описание") - less  
+[Урок 10](https://gist.githubusercontent.com/Skaramush01/5ff581b022daa43df69f1f810a471026/raw/1ecb1b99778a2bf582c4db76379dfacc0976067b/main.less "Описание") - less  
 [Урок 12](адрес "Описание") - работа с репозиторием на GitHub  
 [Урок 13](адрес "Описание")  
